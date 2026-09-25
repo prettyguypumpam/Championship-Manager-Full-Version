@@ -240,4 +240,4 @@ This repository serves as the official landing page for Championship Manager. Th
 **Get the most recent version of Championship Manager today!**
 
 ---
-**Last updated:** 2026-09-25 14:16:10 UTC
+**Last updated:** 2026-09-25 19:00:13 UTC
